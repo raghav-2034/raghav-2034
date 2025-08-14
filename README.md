@@ -1,7 +1,7 @@
 👋 Hello! I'm Raghav  
 🌟 Computer Science Student | Aspiring Full Stack Developer | ML Enthusiast  
 
-I'm currently a 3rd-year Computer Science student passionate about leveraging technology to solve real-world problems.  
+I'm currently a 4th-year Computer Science student passionate about leveraging technology to solve real-world problems.  
 
 
  🚀 About Me  
