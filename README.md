@@ -5,7 +5,7 @@ I'm currently a 4th-year Computer Science student passionate about leveraging te
 
 
  🚀 About Me  
-- 🧑‍🎓 Education: 3rd-year student in Computer Science and Engineering (CSE).  
+- 🧑‍🎓 Education: 4th-year student in Computer Science and Engineering (CSE).  
 - 💻 Skills: MERN Stack | Machine Learning | Python | Java.  
 - 🌱 Learning: Deepening my knowledge of full-stack web development and computer science fundamentals.  
 - 🔭 Current Project: Building an **Interactive Coding Challenge Platform** using React, Node.js, MongoDB, and Docker.  
